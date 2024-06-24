@@ -1,0 +1,26 @@
+body{
+    background-image:url(img/bg.jpg);
+    background-position: center; 
+    background-size: cover;
+    font-family: "Trebuchet MS";
+    font-size: 25px;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1{
+    color: goldenrod;
+    font-size: 48px;
+}
+
+button{
+    color: #016f32;
+    font-size: 18px;
+    width: 150px;
+    background: goldenrod;
+    padding:5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+}
